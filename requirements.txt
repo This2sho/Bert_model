@@ -1,0 +1,13 @@
+# pip install -r requirements.txt 로 실행해주세요.
+transformers == 4.9.2
+konlpy == 0.5.2
+tokenizers == 0.10.3
+tqdm == 4.46.0 
+
+# kobert tokenizer 사용하려면 아래 도 실행
+# pip3 install kobert-transformers
+
+# MXNet >= 1.4.0
+# gluonnlp >= 0.6.0
+# sentencepiece >= 0.1.6
+# onnxruntime >= 0.3.0
